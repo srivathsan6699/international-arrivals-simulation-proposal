@@ -104,8 +104,3 @@ shift if additional scenarios or layout variants are requested.
 └── docs/
     └── Sample_Simulation_Proposal_for_Airport_Immigration_Hall.pptx
 ```
-
-## Status
-
-📋 Proposal stage — awaiting stakeholder data collection before model build
-begins.
